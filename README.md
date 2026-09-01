@@ -2,7 +2,7 @@
 
 Charles Doth Not Serf is one of my earliest substantial programming projects, developed in Unity and C# in 2019 while I was teaching myself software development.
 
-The game included enemy and boss behavior, combat, quests and objectives, NPC interactions, inventory, character progression, cutscenes, menus, and scene transitions. This repository preserves the original gameplay source largely as it was written at the time rather than rewriting it to reflect my current programming practices.
+The game was an open-world RPG with quests, triggered events, custom animations, a mini-map, HUD, and UI designed to display correctly across nearly all resolutions. The source also includes enemy and boss behavior, combat, NPC interactions, inventory, character progression, cutscenes, menus, and scene transitions. This repository preserves the original gameplay source largely as it was written at the time rather than rewriting it to reflect my current programming practices.
 
 ## Historical Context
 
